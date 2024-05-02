@@ -1,6 +1,10 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Eduardo Emmanuel Velasquez Zelaya
+// 2024-1351U
+// grupo 1M1-S
+
 public class ReverseArray {
 
     public static void main(String[] args) {
